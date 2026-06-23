@@ -1,1 +1,21 @@
 # portfolio
+Game portfolio:
+- Light my Fire
+  - https://github.com/AzGhort/Light-My-Fire
+  - Classmate collaboration project in university
+  - Made in Unity
+- Derby Knights
+  - https://procedurals-unlimited.itch.io/derby-knights
+  - Made in 24 hours in Unreal Engine solo
+  - Made for Windows
+- Quest of the Endless Trot
+  - https://procedurals-unlimited.itch.io/quest-of-the-endless-trot
+  - Made in 24 hours in Unreal Engine solo
+  - Made for Windows
+- Fantasy Town Builder
+  - https://github.com/handsomePirate/PluginDevelopment
+  - Unfinished plugin for Unreal Engine
+- Dropper
+  - https://github.com/handsomePirate/dropper
+  - Solo small pure C++ and OpenGL game made in under a week
+  - Made for Linux
