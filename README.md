@@ -19,3 +19,7 @@ Game portfolio:
   - https://github.com/handsomePirate/dropper
   - Solo small pure C++ and OpenGL game made in under a week
   - Made for Linux
+- Modern Renderer
+  - https://github.com/handsomePirate/modern-renderer
+  - Solo C++ and Vulkan renderer with deferred shading, shadow mapping with PCF, and Weighted OIT
+  - Made for Linux (probably portable to Windows)
